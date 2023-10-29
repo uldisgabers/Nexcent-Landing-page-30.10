@@ -1,10 +1,3 @@
-# html_ts_boilerplate
-To start coding open your terminal and write
-```
-npm i
-```
+CODELEX majas darbs 30.10
 
-When all packages have been installed run:
-```
-npm start
-```
+Nexcent-Landing-page
